@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: This section contains information on the readings for this course along
+  with the discussion notes files.
 learning_resource_types:
 - Readings
 ocw_type: CourseSection

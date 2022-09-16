@@ -1,5 +1,6 @@
 ---
 content_type: page
+description: This section contains additional study material for the course.
 learning_resource_types: []
 ocw_type: CourseSection
 title: Study Materials

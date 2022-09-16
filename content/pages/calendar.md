@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: This section provides information on the topics covered in the course
+  along with the in-class activities.
 learning_resource_types: []
 ocw_type: CourseSection
 title: Calendar
